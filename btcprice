@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd /home/hadi/btcprice/
+price=$(curl eur.rate.sx/1BTC)
+echo "# Bitcoin Price in EURO" >README.md
+echo "" >>README.md
+echo "Bitcoin: ${price}€" >>README.md
+echo "Date: $(date)"
+git add .
+git commit -m "Update price"
+git push -u origin main
