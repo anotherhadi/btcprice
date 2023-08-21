@@ -1,3 +1,3 @@
 # Bitcoin Price in EURO
 
-Bitcoin: 23751.3472717€
+Bitcoin: 23785.7009743€
