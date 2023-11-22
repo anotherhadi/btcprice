@@ -1,11 +1,5 @@
 # Bitcoin Price in EURO
 
-Bitcoin: <html>
-<head><title>504 Gateway Time-out</title></head>
-<body bgcolor="white">
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx/1.13.12</center>
-</body>
-</html>€
+Bitcoin: 33399.9836936€
 
-Date: Tue Nov 21 17:36:31 UTC 2023
+Date: Wed Nov 22 17:35:01 UTC 2023
