@@ -1,5 +1,5 @@
 # Bitcoin Price in EURO
 
-Bitcoin: 34434.0704603€
+Bitcoin: 34427.1736953€
 
-Date: Wed Nov 29 17:35:01 UTC 2023
+Date: Thu Nov 30 17:35:01 UTC 2023
