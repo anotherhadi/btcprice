@@ -1,5 +1,11 @@
 # Bitcoin Price in EURO
 
-Bitcoin: 61667.9608085€
+Bitcoin: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.13.12</center>
+</body>
+</html>€
 
-Date: Sat Apr 13 17:35:01 UTC 2024
+Date: Sun Apr 14 17:36:31 UTC 2024
