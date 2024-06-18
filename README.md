@@ -1,5 +1,8 @@
 # Bitcoin Price in EURO
 
-Bitcoin: 59872.1406524€
+Bitcoin: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>€
 
-Date: Mon Jun 17 17:35:01 UTC 2024
+Date: Tue Jun 18 17:35:01 UTC 2024
