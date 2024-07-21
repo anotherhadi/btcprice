@@ -1,5 +1,5 @@
 # Bitcoin Price in EURO
 
-Bitcoin: 61367.1711762€
+Bitcoin: 61339.1837469€
 
-Date: Sat Jul 20 17:35:01 UTC 2024
+Date: Sun Jul 21 17:35:56 UTC 2024
